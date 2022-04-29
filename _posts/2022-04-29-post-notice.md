@@ -8,7 +8,7 @@ tags:
   - seguridad
 ---
 
-Tutorial para instalar la app Hik-Connect em tu celular.
+Tutorial para instalar la app Hik-Connect en tu celular.
 
 **1.** Acceda desde el navegador de su celular a la página link: [**Hikvision App Store**](https://appstore.hikvision.com/).
 {: .notice--primary}
