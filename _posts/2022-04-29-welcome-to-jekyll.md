@@ -9,7 +9,7 @@ tags:
 
 En este blog encontrarás información de interés para el consorcio.
 
-
 <p align="center">
-<img src="/img/cid-gris.png">
+<!--<<img src="/img/post/camaras/app-install.png"> -->
+<img src="{{ "/img/cid-gris.png" | prepend:site.baseurl | prepend: site.url}}" />
 </p>
