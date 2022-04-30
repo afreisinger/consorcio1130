@@ -28,7 +28,7 @@ Tutorial para instalar la app Hik-Connect en tu celular.
 <img src="{{ "/img/post/camaras/app-store.png" | prepend:site.baseurl | prepend: site.url}}" />
 </p>
 
-**4.** Al concluir la descarga de la aplicación, ejecútela para iniciar el proceso de instalación. Dependiendo de la configuración con la que cuente su dispositivo puede arrojar un mensaje en el cual le solicite el permiso para poder realizar la instalación.
+**4.** Al finalizar la descarga de la aplicación, ejecútela para iniciar el proceso de instalación. Dependiendo de la configuración con la que cuente su dispositivo puede arrojar un mensaje en el cual le solicite el permiso para poder realizar la instalación.
 {: .notice--primary}
 
 <p align="center">
