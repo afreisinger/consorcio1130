@@ -47,7 +47,7 @@ Tutorial para instalar la app Hik-Connect en tu celular.
 **6.** Acceda a aplicación y regístrese con un correo electrónico(preferentemente) o número de teléfono completando todos los campos.
 {: .notice--primary}
 
-Puede registrarse con su compudatora accediendo a [**Hik Connect**](https://www.hik-connect.com/). y luego acceder a aplicación.
+Puede registrarse con su computadora accediendo a [**Hik Connect**](https://www.hik-connect.com/). y luego acceder a aplicación.
 {: .notice--danger}
 
 **7.** Enviar un correo electrónico a [info@consorcio1130.com.ar](mailto:info@consorcio1130.com.ar?subject=Alta de Usuario), indicando **NOMBRE**, **APELLIDO**, **PISO** y **DEPARTAMENTO** para ser dado del alta y poder visualizar las cámaras a través de la aplicación.
