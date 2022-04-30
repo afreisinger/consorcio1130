@@ -8,7 +8,10 @@ tags:
 ---
 
 En este blog encontrarás información de interés para el consorcio.
-## Es una página personal, ad honorem. ##
+{: .notice--primary}
+
+Es una página personal, ad honorem.
+{: .notice--primary}
 
 <p align="center">
 <!--<<img src="/img/post/camaras/app-install.png"> -->
