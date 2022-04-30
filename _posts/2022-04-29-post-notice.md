@@ -40,7 +40,7 @@ Tutorial para instalar la app Hik-Connect en tu celular.
 {: .notice--success}
 
 <p align="center">
-<img src="/img/post/camaras/app-install.png">
+<!--<<img src="/img/post/camaras/app-install.png"> -->
 <img src="{{ "/img/post/camaras/app-install.png" | prepend:site.baseurl | prepend: site.url}}" />
 </p>
 
