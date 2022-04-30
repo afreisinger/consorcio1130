@@ -17,7 +17,7 @@ Tutorial para instalar la app Hik-Connect en tu celular.
 **2.** Seleccione el sistema operativo Android (teléfonos Samsung, Motorola, Huawei, etc) o IOS (IPhone).
 {: .notice--primary}
 
-**3.** Elija la aplicación de Hik-Connect End Usery y presione el recuadro de descargar (**Download**).
+**3.** Elija la aplicación de Hik-Connect End User y presione el recuadro de descargar (**Download**).
 {: .notice--primary}
 
 **Ignorar las advertencias de seguridad.**
@@ -28,7 +28,7 @@ Tutorial para instalar la app Hik-Connect en tu celular.
 <img src="{{ "/img/post/camaras/app-store.png" | prepend:site.baseurl | prepend: site.url}}" />
 </p>
 
-**4.** Al concluir la descarga de la aplicación, ejecútela para que inicie con el proceso de instalación,  dependiendo de la configuración con la que cuente su dispositivo puede arrojar un mensaje en el cual le solicite el permiso para poder realizar la instalación.
+**4.** Al concluir la descarga de la aplicación, ejecútela para iniciar el proceso de instalación. Dependiendo de la configuración con la que cuente su dispositivo puede arrojar un mensaje en el cual le solicite el permiso para poder realizar la instalación.
 {: .notice--primary}
 
 <p align="center">
