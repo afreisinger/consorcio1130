@@ -44,7 +44,7 @@ Tutorial para instalar la app Hik-Connect en tu celular.
 <img src="{{ "/img/post/camaras/app-install.png" | prepend:site.baseurl | prepend: site.url}}" />
 </p>
 
-**6.** Acceda a aplicación y regístrese con un correo electrónico(preferentemente) o número de teléfono completando todos los campos.
+**6.** Acceda a aplicación y regístrese con un correo electrónico(**preferentemente**) o número de teléfono completando todos los campos.
 {: .notice--primary}
 
 Puede registrarse con su computadora accediendo a [**Hik Connect**](https://www.hik-connect.com/) y luego acceder a aplicación desde su teléfono.
